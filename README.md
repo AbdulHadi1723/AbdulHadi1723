@@ -1,16 +1,29 @@
-## Hi there 👋
-
-<!--
-**AbdulHadi1723/AbdulHadi1723** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+const abdulHadi = {
+  title: "AI Student",
+  journey: "Just starting out",
+  currentFocus: [
+    "Learning programming fundamentals",
+    "Learning Python",
+    "Building a strong AI foundation",
+    "Starting real projects from scratch"
+  ],
+  stack: {
+    learningNow: ["Python", "HTML", "CSS", "Git", "GitHub", "VS Code"],
+    learningNext: [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Node.js",
+      "SQL",
+      "PostgreSQL",
+      "Docker",
+      "AWS",
+      "PyTorch",
+      "TensorFlow",
+      "scikit-learn"
+    ]
+  },
+  launchedProjects: 0,
+  status: "Student",
+  openTo: "Learning, building and improving"
+};
