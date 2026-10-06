@@ -12,7 +12,7 @@
 ## Who I Am
 
 ```typescript
-const abdulHadi = {
+const AbdulHadi = {
   name: "abdul hadi",
   title: "AI student at Murdoch",
   journey: "Just starting out",
