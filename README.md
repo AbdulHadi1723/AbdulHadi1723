@@ -13,7 +13,7 @@
 
 ```typescript
 const AbdulHadi = {
-  name: "abdul hadi",
+  name: "Abdul Hadi",
   title: "AI student at Murdoch",
   journey: "Just starting out",
   currentFocus: [
